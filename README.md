@@ -10,4 +10,4 @@ alumno 2
 1- se clono el repositorio del estudiante 1 con el comando git clone.
 2- se ingreso al mismo.
 3- se creo una nueva rama con el comando git branch nueva-rama. se paso a la rama creada con el comando git checkout nueva-rama.
-4- 
+4- se agregan nuevas modificaciones 
